@@ -1,2 +1,2 @@
 # Python
-Everything Python
+Everything Python.
